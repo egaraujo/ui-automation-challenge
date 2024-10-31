@@ -2,5 +2,23 @@
     "productsFileName": "products.txt",
     "textFileSuccess": "Text file 'products.txt' was written successfully.",
 
-    "macBookAir": "MacBook air"
+    "macBookAir": "MacBook air",
+
+    "cartName": "Egon Spengler",
+    "cartCountry": "United States",
+    "cartCity": "New York",
+    "cartCard": "95213647",
+    "cartMonth": "03",
+    "cartYear": "2029",
+
+    "thankAlert": "Thank you for your purchase!",
+    "amountAlert": "Amount: 400 USD",
+    "cardAlert": "Card Number:",
+    "nameAlert": "Name:",
+
+    "loginUser": "user",
+    "loginPassword": "wrongpassword",
+    "wrongPassword": "Wrong password.",
+
+    "signUpSuccessful": "Sign up successful."
 }
